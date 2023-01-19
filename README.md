@@ -9,21 +9,20 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 *   🚀  I'm currently working at [Dedagroup](https://www.dedagroupstealth.com/home)
 *   ✉️  You can contact me at [albi.benni8@gmail.com](mailto:albi.benni8@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer or designer
-<br/>
-## Skill
 
+## Skills
 ---------------------------------
 
 ### Learning
+
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
-<br/>
-## Skills
 
 ### Core
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -34,7 +33,6 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-<br/>
 
 ### Intermediate
 
@@ -48,7 +46,6 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
-<br/>
 
 ### Junior
 
@@ -57,12 +54,10 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
-<br/>
 
 ### Social
 ---------------------------------
 <p align="left"> <a href="https://www.github.com/albibenni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alberto-benatti-b0554911a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<br/>
 
 ### Stats
 ---------------------------------
@@ -70,5 +65,4 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 <b>My GitHub Stats</b>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&theme=merko&hide_border=true&show_icons=true)
-![Alberto's GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=albibenni&theme=merko&hide_border=true&custom_title=GitHub%20Commits%20Graph" )
-
+![Alberto's GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=albibenni&theme=merko&hide_border=true&custom_title=GitHub%20Commits%20Graph")
