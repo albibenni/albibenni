@@ -69,5 +69,5 @@ Skill
 <b>My GitHub Stats</b>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&theme=dark&hide_border=true&show_icons=true)
-![Alberto's GitHub Commit Graph](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&theme=dark&hide_border=true&show_icons=true")
+![Alberto's GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=albibenni&theme=dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" )
 
