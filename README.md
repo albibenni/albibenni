@@ -10,7 +10,8 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 *   ✉️  You can contact me at [albi.benni8@gmail.com](mailto:albi.benni8@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer or designer
 <br/>
-Skill
+## Skill
+
 ---------------------------------
 
 ### Learning
