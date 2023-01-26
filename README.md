@@ -8,7 +8,7 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 *   🌍  I'm based in Gallarate, Italy
 *   🚀  I'm currently working at [Dedagroup](https://www.dedagroupstealth.com/home)
 *   ✉️  You can contact me at [albi.benni8@gmail.com](mailto:albi.benni8@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects as a developer or designer
+*   🤝  I'm open to collaborating on interesting projects as a developer
 
 ## Skills
 ---------------------------------
