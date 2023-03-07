@@ -6,7 +6,7 @@ Full stack developer
 I'm a technology enthusiast and I enjoy spending my time learning and trying new stuff!
 
 *   🌍  I'm based in Gallarate, Italy
-*   🚀  I'm currently working at [Dedagroup](https://www.dedagroupstealth.com/home)
+*   🚀  I'm currently working at [Dedagroup Stealth](https://www.dedagroupstealth.com/home)
 *   ✉️  You can contact me at [albi.benni8@gmail.com](mailto:albi.benni8@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
@@ -17,8 +17,6 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
 
 ### Core
