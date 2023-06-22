@@ -64,6 +64,6 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 ---------------------------------
 
 <b>My GitHub Stats</b> </br>
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&theme=merko&hide_border=true&show_icons=true) </br>
+![Albibenni's Stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true&border_radius=10&card_width=445) </br>
 ![Alberto's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albibenni&show_icons=true&count_private=true&theme=merko&hide_border=true&show_icons=true&border_radius=10&card_width=445&layout=compact)</br>
 ![Alberto's GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=albibenni&theme=merko&hide_border=true&custom_title=GitHub%20Commits%20Graph")
