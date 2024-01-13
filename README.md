@@ -6,7 +6,7 @@ Full stack developer
 I'm a technology enthusiast and I enjoy spending my time learning and trying new stuff!
 
 *   🌍  I'm based in Gallarate, Italy
-*   🚀  I'm currently working at [Dedagroup Stealth](https://www.dedagroupstealth.com/home)
+*   🚀  I'm currently working at [Missoun](https://www.missoun.com/)
 *   ✉️  You can contact me at [albi.benni8@gmail.com](mailto:albi.benni8@gmail.com)
 *   🌍  You can look at my portfolio at [Alberto benatti](https://www.albertobenatti.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer
