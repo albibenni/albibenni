@@ -29,11 +29,8 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 ![Static Badge](https://img.shields.io/badge/git-E67001?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contacts
-![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-[Linkedin](https://www.linkedin.com/in/alberto-benatti-b0554911a/)
-</br>
-![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)
-[Mail](mailto:albi.benni8@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/alberto-benatti-b0554911a/)
+- [Mail](mailto:albi.benni8@gmail.com)
 
 
 ## Stats
