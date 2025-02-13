@@ -36,5 +36,5 @@ I'm a technology enthusiast and I enjoy spending my time learning and trying new
 ## Stats
 
 <b>My GitHub Stats</b> </br>
-![Albibenni's Stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&layout=compact&theme=merko&hide_border=true&border_radius=10&card_width=445) </br>
-![Alberto's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albibenni&show_icons=true&count_private=true&theme=merko&hide_border=true&show_icons=true&border_radius=10&card_width=445&layout=compact)</br>
+![Albibenni's Stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&layout=compact&theme=highcontrast&hide_border=true&border_radius=10&card_width=545)</br>
+![Alberto's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albibenni&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&show_icons=true&border_radius=10&card_width=545&layout=compact)</br>
