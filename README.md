@@ -1,7 +1,7 @@
 Hi 👋 My name is Alberto Benatti
 =================================
 
-Full stack developer
+Full stack developer with a special focus on Backend
 ---------------------------------
 I'm a technology enthusiast and I enjoy spending my time learning and trying new stuff!
 
