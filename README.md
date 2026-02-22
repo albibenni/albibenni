@@ -1,36 +1,51 @@
-Hi 👋 My name is Alberto Benatti
-=================================
+<div align="center">
+  <h1>Hi 👋 I'm Alberto Benatti</h1>
+  <p><strong>Full Stack Developer | Backend Enthusiast | Freelancer</strong></p>
 
-Full stack developer with a special focus on Backend
----------------------------------
-I'm a technology enthusiast and I enjoy spending my time learning and trying new stuff!
+  <p>
+    <a href="https://www.linkedin.com/in/alberto-benatti-b0554911a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+    <a href="mailto:albi.benni8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-*   🌍  I'm based in Italy
-*   🚀  I'm currently working as a Freelance
-*   🤝  I'm open to collaborating on interesting projects as a developer
+---
 
-## Stack
-![Static Badge](https://img.shields.io/badge/typescript-0054E6?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/go-4479A1?style=for-the-badge&logo=go&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-F5C201?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/rust-E54512?style=for-the-badge&logo=rust&logoColor=white)
-![Static Badge](https://img.shields.io/badge/react-059FD6?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/docker-059FD6?style=for-the-badge&logo=docker&logoColor=white)
+### 📖 About Me
+I'm a technology enthusiast based in **Italy** 🇮🇹. I spend my time architecting exploring the bleeding edge of software.
 
-## Contacts
-- [Linkedin](https://www.linkedin.com/in/alberto-benatti-b0554911a/)
-- [Mail](mailto:albi.benni8@gmail.com)
+* 🚀 **Currently:** Working as a Freelancer.
+* 🤝 **Open to:** Collaborating on innovative open-source projects or interesting backend challenges.
+* ⚡ **Fun Fact:** I enjoy breaking things just to learn how to put them back together (optimally).
 
-## Apps:
-- [FreeApp](https://github.com/albibenni/free):
-  -  MacOS native focus app that enforces scheduled or manual website blocking in browsers via AppleScript, with allowlists, Pomodoro, and calendar-aware overrides.
-- [Kindle Highlights](https://github.com/albibenni/kindle-highlights)
-  - A Go-based CLI tool that extracts and organizes Kindle highlights from My Clippings.txt into clean notes for platforms like Obsidian.
+---
 
-## Stats
+### 🛠️ My Tech Stack
 
-<b>My GitHub Stats</b> </br>
-![Albibenni's Stats](https://github-readme-stats.vercel.app/api?username=albibenni&show_icons=true&count_private=true&layout=compact&theme=highcontrast&hide_border=true&border_radius=10&card_width=545)</br>
-![Alberto's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albibenni&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&show_icons=true&border_radius=10&card_width=545&layout=compact)</br>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=flat-square&logo=rust&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB) |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍎 [FreeApp](https://github.com/albibenni/free)
+> A **macOS native** focus app. It enforces discipline by blocking distracting websites via AppleScript. Includes Pomodoro support and calendar-aware overrides.
+
+#### 📖 [Kindle Highlights](https://github.com/albibenni/kindle-highlights)
+> A high-performance **Go CLI tool** that transforms your messy `My Clippings.txt` into structured, beautiful notes ready for Obsidian.
+
+---
+
+### 📊 Github Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albibenni&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&card_width=600" width="450" height="350" alt="Overall Stats" />
+</br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albibenni&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&layout=compact&border_radius=10" width="450" alt="Top Languages" />
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albibenni&theme=tokyonight&hide_border=false" width="450" alt="GitHub Streak" />
+  </br>
+</p>
