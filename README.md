@@ -41,7 +41,7 @@ I'm a technology enthusiast based in **Italy** 🇮🇹. I spend my time archite
 
 ### 📊 Github Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albibenni&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&card_width=600" width="450" height="350" alt="Overall Stats" />
 </br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albibenni&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&layout=compact&border_radius=10" width="450" alt="Top Languages" />
